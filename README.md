@@ -1,6 +1,6 @@
-![Hi, I'm Dhruv Govil](https://github.com/dgovil/dgovil/raw/master/images/banner.png?raw=true "Hi, I'm Dhruv Govil")
+![Hi, I'm Dhruv Govil](https://github.com/dgovil/dgovil/raw/main/images/banner.png?raw=true "Hi, I'm Dhruv Govil")
 
-### Hi there 👋
+Hi, I'm Dhruv. I'm currently a Pipeline Architect, working on Augmented Reality at ![Apple](https://github.com/dgovil/dgovil/blob/main/images/apple_logo.png?raw=true?raw=true "Apple" )
 
 <!--
 **dgovil/dgovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
