@@ -1,3 +1,5 @@
+![Hi, I'm Dhruv Govil](https://github.com/dgovil/dgovil/raw/master/images/banner.png?raw=true "Hi, I'm Dhruv Govil")
+
 ### Hi there 👋
 
 <!--
