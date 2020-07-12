@@ -8,19 +8,29 @@ Hi, I'm Dhruv. I'm currently a Pipeline Architect, working on Augmented Reality 
 - 😄 Pronouns: He/Him
 - 👨🏽‍💻 Programming Polyglot with a focus on Python, Rust, Swift, C++, C# among others.
 - ✨ I love to Animate as well as UI & UX work.
-- 💬 My name is pronounced `dh ʀ /oo/ v`, or it's `Drew` with a `V` added on.
+- 💬 My name is pronounced `dh ʀ /oo/ v`, or it's `Drew` with a `V` added on. Don't worry about it.
+- 📸 I shoot live concerts and I play 🎸guitar in my free time.
 
-    I won't hold it against you if you mess it up.
 
 
 ## Notable Work
 
 <table>
     <tr>
-        <td>
-            <img src="https://developer.apple.com/app-clips/images/icon-app-clip-codes.svg" width=128 alt="App Clip Code">
+        <td width="33%">
+            <img src="https://developer.apple.com/app-clips/images/icon-app-clip-codes.svg" alt="App Clip Code">
             <a href="https://developer.apple.com/app-clips/"><br/>App Clip Code</a><br/>
             Responsible for creating the generator, early visual designs and worked on demo content.
+        </td>
+        <td width="33%">
+            <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/smallfoot.jpg" alt="SmallFoot"><br/>
+            <b>SmallFoot</b><br/>
+            Pipeline Supervisor (One of Two).
+        </td>
+        <td width="33%">
+            <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/Homecoming.png" alt="Spider-Man: Homecoming"><br/>
+            <b>Spider-Man: Homecoming</b><br/>
+            Pipeline and Layout Supervisor.
         </td>
     </tr>
     
