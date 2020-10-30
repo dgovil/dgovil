@@ -2,6 +2,9 @@
 
 Hi, I'm Dhruv. I'm currently a Pipeline Architect, working on Augmented Reality at <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/apple_logo.svg" width=16 alt="Apple Logo">. I'm also an artist, and previously worked in Visual Effects and Animation as a Pipeline and Layout Supervisor. My skills are a good mix of art and technology, because I like to speed up my content creation workflows.
 
+My opinions, repos and other content here are not a reflection of my employers, unless otherwise specified or agreed.
+My code repos remain up as a reference but will not be modified further, with the exception of those with employer approval or as administrative actions.
+
 ## Facts About Me
 
 - 🇨🇦🇮🇳living in 🇺🇸
