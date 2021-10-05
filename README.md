@@ -8,10 +8,10 @@ My code repos remain up as a reference but will not be modified further, with th
 
 ## Facts About Me
 
-- 🇨🇦🇮🇳living in 🇺🇸
+- 🇨🇦🇮🇳living in 🇨🇦, formerly in 🇺🇸
 - 😄 Pronouns: He/Him
 - 👨🏽‍💻 Programming Polyglot with a focus on Python, Rust, Swift, C++, C# among others.
-- ✨ I love to Animate as well as UI & UX work.
+- ✨ I love to Animate as well as designing UI & UX.
 - 💬 My name is pronounced `dh ʀ /oo/ v`, or it's `Drew` with a `V` added on. Don't worry about it.
 - 📸 I shoot live concerts and I play 🎸guitar in my free time.
 
