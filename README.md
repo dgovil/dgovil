@@ -1,6 +1,6 @@
 ![Hi, I'm Dhruv Govil](https://github.com/dgovil/dgovil/raw/main/images/banner.png?raw=true "Hi, I'm Dhruv Govil")
 
-Hi, I'm Dhruv. I'm currently a Pipeline Architect, working on Augmented Reality at <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/apple_logo.svg" width=16 alt="Apple Logo">. I'm also an artist, and previously worked in Visual Effects and Animation as a Pipeline and Layout Supervisor. My skills are a good mix of art and technology, because I like to speed up my content creation workflows.
+Hi, I'm Dhruv. I'm currently a Software Engineer, working on USD Content Pipelines for <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/visionpro.png" width=16 alt="Apple Logo"> Apple Vision Pro. My background is as an artist and software developer in Visual Effects and Animation. I enjoy working as a mix of art and technology.
 
 My opinions, repos and other content here are not a reflection of my employers, unless otherwise specified or agreed. I am making my contributions/submissions to the projects in my personal capacity and am not conveying any rights to any intellectual property of any third parties.
 
