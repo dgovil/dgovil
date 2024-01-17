@@ -28,7 +28,7 @@ My code repos remain up as a reference but will not be modified further, with th
         </td>
     </tr>
     <td width="50%">
-            <img src="https://developer.apple.com/app-clips/images/aousd-icon.svg" alt="Alliance for OpenUSD">
+            <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/aousd-icon.svg" alt="Alliance for OpenUSD">
             <a href="https://aousd.org"><br/>Alliance for OpenUSD</a><br/>
             Founding member of Alliance for OpenUSD. Working on File Format specification.
     </td>
