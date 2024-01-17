@@ -21,7 +21,7 @@ My code repos remain up as a reference but will not be modified further, with th
 
 <table>
     <tr>
-    <td width="50%">
+        <td width="50%">
             <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/visionpro.png" alt="Apple Vision Pro">
             <a href="https://www.apple.com/apple-vision-pro/"><br/>Apple Vision Pro</a><br/>
             Software Engineer working on 3D Content Pipelines.
@@ -30,8 +30,11 @@ My code repos remain up as a reference but will not be modified further, with th
             <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/aousd-icon.svg" alt="Alliance for OpenUSD">
             <a href="https://aousd.org"><br/>Alliance for OpenUSD</a><br/>
             Founding member of Alliance for OpenUSD. Working on File Format specification.
-    </td>
+        </td>
     </tr>
+</table>
+
+<table>
     <tr>
         <td width="33%">
             <img src="https://developer.apple.com/app-clips/images/icon-app-clip-codes.svg" alt="App Clip Code">
